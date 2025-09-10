@@ -55,13 +55,13 @@ Material:
     m_Floats:
     - _Blur_Offset: 0.002
     - _EnableExternalAlpha: 0
-    - _Frequency: 138
+    - _Frequency: 128
     - _Scan_Lines_Speed: 0.25
     - _ZWrite: 0
     m_Colors:
-    - _Color: {r: 3.6981132, g: 3.5619087, b: 3.471342, a: 1}
-    - _Line_A: {r: 1, g: 0.64768773, b: 0.495283, a: 1}
-    - _Line_B: {r: 0, g: 0.3371809, b: 0.5849056, a: 1}
+    - _Color: {r: 2.4686358, g: 2.4686358, b: 2.4686358, a: 1}
+    - _Line_A: {r: 1, g: 1, b: 1, a: 1}
+    - _Line_B: {r: 0, g: 0.301291, b: 1, a: 1}
     - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
